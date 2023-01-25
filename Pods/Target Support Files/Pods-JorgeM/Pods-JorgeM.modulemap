@@ -1,0 +1,6 @@
+framework module Pods_JorgeM {
+  umbrella header "Pods-JorgeM-umbrella.h"
+
+  export *
+  module * { export * }
+}
